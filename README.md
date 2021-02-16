@@ -14,7 +14,7 @@ me <- list(
 )
 ```
 
-Here are my top 5 most popular `R` blog posts:
+Here are my top 5 most popular `R` [blog posts](https://thomasadventure.blog/posts/):
 
 - [The Comprehensive Guide to Installing R Packages from CRAN, Bioconductor, GitHub and Co.
 ](https://thomasadventure.blog/posts/install-r-packages/)
