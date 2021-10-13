@@ -9,7 +9,7 @@ me <- list(
   occupation = "Statistical Programmer Analyst",
   employer = "Roche",
   favorite_programming_language = "R",
-  my_r_packages = c("ggcharts", "mdthemes"),
+  my_r_packages = c("admiral", "ggcharts", "mdthemes"),
   blog = "https://thomasadventure.blog/"
 )
 ```
