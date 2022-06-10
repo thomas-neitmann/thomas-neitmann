@@ -6,7 +6,7 @@ Some facts about myself:
 me <- list(
   name = "Neitmann",
   first_name = "Thomas",
-  occupation = "Statistical Programmer Analyst",
+  occupation = "Senior Analytical Data Scientist",
   employer = "Roche",
   favorite_programming_language = "R",
   my_r_packages = c("admiral", "ggcharts", "mdthemes"),
