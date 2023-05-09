@@ -6,8 +6,8 @@ Some facts about myself:
 me <- list(
   name = "Neitmann",
   first_name = "Thomas",
-  occupation = "Senior Data Scientist",
-  employer = "Roche",
+  occupation = "Associate Director, Data Science",
+  employer = "Denali Therapeutics",
   favorite_programming_language = "R",
   my_r_packages = c("admiral", "ggcharts", "mdthemes"),
   blog = "https://thomasadventure.blog/"
